@@ -1,7 +1,7 @@
-Description of the Project:
+Description of the Project:		
 	The Project is a Maven Based Spring Boot application Based on Java 8 and uses H2 DataBase ,Spring Data JPA
 	
-Steps to Run the application:
+Steps to Run the application:			
 	Import the application as existing Maven application
 	After Importing the project run the application as spring boot application / run java application "Application.java"
 	
